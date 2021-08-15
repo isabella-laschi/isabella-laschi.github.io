@@ -1,0 +1,20 @@
+/*MENU*/
+ul li{
+	text-align: center;
+}
+
+ul li:last-child{
+	margin-right: 0;
+}
+
+/*PROJETOS*/
+.projetos{
+	flex-direction: column;
+	padding: 100px 80px;
+}
+
+.projetos > div{
+	width: 70%;
+	margin: 0 auto;
+	font-size: 40px;
+}
